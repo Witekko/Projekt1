@@ -1,0 +1,7 @@
+﻿  Sortowanie.cpp
+C:\Users\wajci\source\repos\Projekt1\Projekt1\Sortowanie.cpp(108,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\wajci\source\repos\Projekt1\Projekt1\Sortowanie.cpp(110,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\wajci\source\repos\Projekt1\Projekt1\Sortowanie.cpp(329,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wajci\source\repos\Projekt1\Projekt1\Sortowanie.cpp(376,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wajci\source\repos\Projekt1\Projekt1\Sortowanie.cpp(424,55): warning C4305: 'argument': truncation from 'double' to 'float'
+  Projekt1.vcxproj -> C:\Users\wajci\source\repos\Projekt1\x64\Debug\Projekt1.exe
